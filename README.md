@@ -6,7 +6,6 @@ Please download and use the ml-latest-small dataset from https://grouplens.org/d
 
 ## Dependencies Version
 > Python 2.7.16  
-
 > PySpark 2.2.0
 
 ## TODO:
